@@ -11,10 +11,13 @@
   ![download20220706111455](https://user-images.githubusercontent.com/109320087/179359816-346c0b2d-73b0-465d-bab8-b0a768955378.png)
 
   
-  <a href="https:/instagram.com/gleice.veras98//" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:https://mail.google.com/mail/u/0/?hl=pt-BR#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https:/https://www.linkedin.com/in/gleiciane-s-5a5884109//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+ <a href="https://instagram.com/gleice.veras98" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gleicianeveras2015@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gleiciane-s-5a5884109" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 
 </div>
   
+  
+
+ 
