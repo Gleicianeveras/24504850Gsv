@@ -6,12 +6,10 @@
 </div>
 </div>
   
-  <div> 
-
-
-  ![download20220706111455](https://user-images.githubusercontent.com/109320087/179359477-0abe7a7b-baaa-43a2-b30b-649b322e79f1.gif)
+  <div>
   
-  
+  ![download20220706111455](https://user-images.githubusercontent.com/109320087/179359816-346c0b2d-73b0-465d-bab8-b0a768955378.png)
+
   
   <a href="https:/instagram.com/gleice.veras98//" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:https://mail.google.com/mail/u/0/?hl=pt-BR#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
